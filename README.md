@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokahassan832" alt="tokahassan832" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **Backend Development & Software Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TokaHassan832](https://github.com/TokaHassan832)
 
-- 💬 Ask me about **Laravel & PHP**
+- 💬 Ask me about **Backend, Laravel, PHP**
 
 - 📫 How to reach me **tokahassan692@gmail.com**
 
